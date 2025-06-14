@@ -1,0 +1,14 @@
+POST Request URL: https://petstore.swagger.io/v2/user
+POST Request Body: {
+  "id": 0,
+  "username": "degeryuksel2878",
+  "firstName": "Bar\u0131\u015fcan",
+  "lastName": "Zorlu",
+  "email": "mengucdemirel@example.com",
+  "password": ")3B4PTqP",
+  "phone": "+90(853)0265595",
+  "userStatus": 0
+}
+POST Response: {"code":200,"type":"unknown","message":"9223372036854771066"}
+GET Request URL: https://petstore.swagger.io/v2/user/login?username=degeryuksel2878&password=)3B4PTqP
+GET Response: {"code":200,"type":"unknown","message":"logged in user session:1749918482547"}

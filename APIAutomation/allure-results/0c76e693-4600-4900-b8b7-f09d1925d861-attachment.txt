@@ -1,0 +1,6 @@
+
+                Bug PS-107: DELETE işlemi idempotent değil
+                - İkinci DELETE isteği 404 dönüyor
+                - REST API best practice'lerine göre DELETE işlemi idempotent olmalıdır
+                - Aynı kaynağa yapılan birden fazla DELETE isteği aynı sonucu vermelidir
+                

@@ -1,0 +1,1 @@
+DELETE Request URL: https://petstore.swagger.io/v2/user/aerdogan5003

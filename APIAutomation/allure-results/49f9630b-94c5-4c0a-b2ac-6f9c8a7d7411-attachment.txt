@@ -1,0 +1,14 @@
+POST Request URL: https://petstore.swagger.io/v2/user
+POST Request Body: {
+  "id": 0,
+  "username": "oakar2637",
+  "firstName": "Tu\u011f\u00e7e",
+  "lastName": "K\u0131sak\u00fcrek",
+  "email": "gulilkim@example.org",
+  "password": "&&a^0Ufw",
+  "phone": "+90(372)471-8494x4764",
+  "userStatus": 0
+}
+POST Response: {"code":200,"type":"unknown","message":"9223372036854771070"}
+GET Request URL: https://petstore.swagger.io/v2/user/oakar2637
+GET Response: {"id":9223372036854771070,"username":"oakar2637","firstName":"Tuğçe","lastName":"Kısakürek","email":"gulilkim@example.org","password":"&&a^0Ufw","phone":"+90(372)471-8494x4764","userStatus":0}
