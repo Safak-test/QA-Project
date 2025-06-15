@@ -1,1 +1,0 @@
-GET Request URL: https://petstore.swagger.io/v2/user/login?username=degeryuksel2878&password=)3B4PTqP

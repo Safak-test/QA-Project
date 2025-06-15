@@ -1,1 +1,0 @@
-GET Request URL: https://petstore.swagger.io/v2/user/oakar2637

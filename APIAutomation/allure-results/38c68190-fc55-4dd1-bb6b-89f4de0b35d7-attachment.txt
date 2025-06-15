@@ -1,2 +1,0 @@
-GET Request URL: https://petstore.swagger.io/v2/user/logout
-GET Response: {"code":200,"type":"unknown","message":"ok"}
