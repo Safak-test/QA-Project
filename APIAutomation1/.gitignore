@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Allure report results
+allure-results/
+allure-report/
+
+# Logs and databases
+*.log
+test_execution.log
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+.ipynb_checkpoints 
